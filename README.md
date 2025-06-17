@@ -1,1 +1,5 @@
 # setup
+
+## Includes 
+- neovim
+- tmux
