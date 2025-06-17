@@ -13,7 +13,7 @@
 
 ### tmux
 requirements:
-https://formulae.brew.sh/formula/libevent
-https://formulae.brew.sh/formula/ncurses
+- https://formulae.brew.sh/formula/libevent
+- https://formulae.brew.sh/formula/ncurses
 
 https://github.com/tmux/tmux
